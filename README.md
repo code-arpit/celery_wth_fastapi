@@ -25,4 +25,4 @@
 ### $ docker compose up -d
 
 ### CHECKING THE LOGS FOR CONTAINER
-### $ docker compose logs -f <container-name>
+### $ docker compose logs -f {container-name}
