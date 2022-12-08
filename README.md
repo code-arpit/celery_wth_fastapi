@@ -1,7 +1,7 @@
-## ACTIVATING VIRTUAL ENV
+##     ACTIVATING VIRTUAL ENV
 ### $ source celery_venv/bin/activate
 
-## INSTALLING REQUIREMENTS
+##     INSTALLING REQUIREMENTS
 ### $ pip install -r requirements.txt
 
 ## RUNNING FASTAPI PROGRAM
