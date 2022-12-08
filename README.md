@@ -15,3 +15,14 @@
 
 ## FOR ACTIVATING REDIS SERVER
 ### $ brew services start redis && redis-server
+
+
+## WITH DOCKER
+### BUILDING THE CONTAINERS
+### $ docker compose build
+
+### RUNNING THE CONTAINERS IN DETACHED MODE
+### $ docker compose up -d
+
+### CHECKING THE LOGS FOR CONTAINER
+### $ docker compose logs -f <container-name>
