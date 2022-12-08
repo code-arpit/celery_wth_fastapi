@@ -1,9 +1,3 @@
-# FOR CELERY WORKER LOGS AND SPECIFYING LOG LEVEL
-# celery -A celery_app.celery worker --loglevel=debug
-
-# FOR CELERY FLOWER
-# celery -A main.celery flower --port=5555
-
 import time
 
 from celery import Celery
